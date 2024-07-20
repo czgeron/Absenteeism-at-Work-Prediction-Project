@@ -1,6 +1,6 @@
 Full-Stack Machine Learning Project: Predicting Excessive Absenteeism
 
-This project is a comprehensive end-to-end machine learning application designed to predict the probability of an individual being excessively absent (defined as being absent for 3 hours or more). The project encompasses the following key components:
+This project is a comprehensive end-to-end machine learning project designed to predict the probability of an individual being excessively absent (defined as being absent for 3 hours or more). The project encompasses the following key components:
 
 1. Data Collection and Preparation:
     - Data Collection: Gathering relevant data such as attendance records, demographic information, work schedules, and other relevant factors that may influence absenteeism.
